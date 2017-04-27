@@ -41,6 +41,7 @@ I think that this experiment is not risky for udacity, therefore I would suggest
 # Experiment Analysis
 ## Sanity Checks
 With  95% confidence interval I got these values for my invariant metrics:
+
 |Evaluation Metric   |Lower bound   | Upper bound| Observed| Passes |
 |---|---|---|---|---|
 |Number of cookies   |0.4988203   | 0.5011797| 0.5006396669| True|
@@ -50,6 +51,7 @@ With  95% confidence interval I got these values for my invariant metrics:
 ## Result Analysis
 ### Effect Size Tests
 Confidence interval at 95% below:
+
 |Evaluation Metric   |Lower bound   | Upper bound| Is statisticaly significant? | Is practicaly significant? |
 |---|---|---|---|---|
 |Gross conversion   |-0.0291   | -0.012| True| True|
