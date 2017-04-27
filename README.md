@@ -17,6 +17,7 @@ These metrics change during the experiment and are used to evaluate the success 
 To launch the experiment I will look at gross conversion to be significantly decreased and net conversion to significantly increase.
 ## Measuring Standard Deviation
 To calculate the standart deviations I used formula: sqrt(p(1-p)/n) where p is probability and n is population size.
+
 |Evaluation Metric   |Standard Deviation   |
 |---|---|
 |Gross Conversion   |0.0202   |
